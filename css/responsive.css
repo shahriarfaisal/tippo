@@ -1,0 +1,221 @@
+/*extra small device*/
+
+@media(max-width:575px) {
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        background: #3deaa4;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        background: #777;
+        text-align: center;
+    }
+
+    .banner-write h5 {
+        font-size: 40px;
+
+    }
+
+    .banner-write h4 {
+        font-size: 24px;
+        padding: 10px 0px;
+        line-height: 35px;
+    }
+
+    .common-btn {
+        margin: 10px 10px;
+    }
+
+    .common-btn a {
+        font-size: 12px;
+    }
+
+    .title h4 {
+        font-size: 30px;
+    }
+
+    .service-write h5 {
+        font-size: 25px;
+        padding: 10px 0px;
+    }
+
+    .best-write h4 {
+        font-size: 30px;
+    }
+
+    .text-right {
+        text-align: center !important;
+    }
+
+    .counter-write .counter {
+        text-align: center;
+    }
+
+    .counter-write h5 {
+        text-align: center;
+    }
+
+    .counter-topic {
+        padding: 20px 20px;
+        margin-bottom: 15px;
+    }
+
+    .testmonial-write-slider .slick-dots {
+        left: 3px;
+        bottom: 100px;
+        outline: 0;
+    }
+
+    .ingredients-write h4 {
+        font-size: 30px;
+    }
+
+    .ingredients-write p {
+        font-size: 15px;
+    }
+
+    .html-image {
+        margin: 10px 0px;
+        text-align: center;
+    }
+
+    .java-image {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .bootstrap-image {
+        text-align: center;
+
+    }
+
+    .trial-write h5 {
+        font-size: 18px;
+    }
+
+    .trial-write p {
+        font-size: 15px;
+        padding: 20px 0px;
+
+    }
+
+    .link ul li {
+        margin: 0px 5px;
+    }
+
+
+
+}
+
+
+/*extra small device*/
+
+@media(min-width:576px)and (max-width:767px) {
+
+
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        background: #3deaa4;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        background: #777;
+        text-align: center;
+    }
+
+
+
+    .counter-topic {
+        margin-bottom: 15px;
+        padding: 25px 0px;
+    }
+
+
+
+    .text-right {
+        text-align: center !important;
+    }
+
+    .counter-write .counter {
+        text-align: center;
+    }
+
+    .counter-write h5 {
+        text-align: center;
+    }
+
+    .testmonial-write-slider .slick-dots {
+        left: -6px;
+        bottom: 100px;
+        outline: 0;
+    }
+
+    .trial-write p {
+        padding: 20px 30px;
+
+    }
+
+
+
+}
+
+
+@media(min-width:768px)and (max-width:991px) {
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        background: #3deaa4;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        background: #777;
+        text-align: center;
+    }
+
+
+
+    .extra-image {
+        margin-top: 130px;
+    }
+
+    .extra-feature p {
+        line-height: 25px;
+    }
+
+
+    .step-topic p {
+        line-height: 25px;
+    }
+
+    .counter-topic {
+        margin-bottom: 15px;
+        padding: 25px 0px;
+    }
+
+
+
+    .text-right {
+        text-align: center !important;
+    }
+
+    .counter-write .counter {
+        text-align: center;
+    }
+
+    .counter-write h5 {
+        text-align: center;
+    }
+
+    .testmonial-write-slider .slick-dots {
+        left: -8px;
+        bottom: 95px;
+        
+    }
+.trial-write p {
+	padding: 20px 50px;
+} 
+    
+}
